@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "grade": 92
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "grade": 85
+    },
+    {
+        "id": 3,
+        "name": "Charlie Davis",
+        "grade": 88
+    },
+    {
+        "id": 4,
+        "name": "Diana Brown",
+        "grade": 79
+    },
+    {
+        "id": 5,
+        "name": "Edward Miller",
+        "grade": 91
+    },
+    {
+        "id": 6,
+        "name": "Fiona White",
+        "grade": 56
+    },
+    {
+        "id": 7,
+        "name": "George Harris",
+        "grade": 95
+    },
+    {
+        "id": 8,
+        "name": "Hannah Wilson",
+        "grade": 82
+    },
+    {
+        "id": 9,
+        "name": "Ian Moore",
+        "grade": 87
+    },
+    {
+        "id": 10,
+        "name": "Jane Taylor",
+        "grade": 90
+    }
+]

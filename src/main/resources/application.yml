@@ -1,0 +1,13 @@
+spring:
+  ai:
+    openai:
+      api-key: ${OPENAI_KEY}
+      chat:
+        options:
+          model: gpt-4o-mini
+          
+  neo4j:
+    authentication:
+      password: password
+      username: neo4j
+    uri: neo4j+s://localhost
